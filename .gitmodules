@@ -1,0 +1,9 @@
+[submodule "oximeter-telegram-bot"]
+	path = oximeter-telegram-bot
+	url = https://github.com/LaBatata101/oximeter-telegram-bot
+[submodule "oximeter-rest-api"]
+	path = oximeter-rest-api
+	url = https://github.com/LaBatata101/oximeter-rest-api
+[submodule "oximeter-esp32-firmware"]
+	path = oximeter-esp32-firmware
+	url = https://github.com/LaBatata101/oximeter-esp32-firmware
