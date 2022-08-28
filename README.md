@@ -10,3 +10,10 @@ you can type the command `/monitorar` to start monitoring the data from the sens
 The REST Api is a basic CRUD, offering 5 routes to manipulate the data, more information can be found in the REST Api repository.
 
 The installation and running instructions can be found on the repositories mentioned above.
+
+## Circuit Diagram
+![image](https://user-images.githubusercontent.com/20308796/185767820-c568fc87-07f3-4737-a4bf-cee4043f3049.png)
+
+## Visualization of the collected data with the web page hosted in the ESP32:
+
+![image](https://user-images.githubusercontent.com/20308796/185768137-be24fe47-a4ee-4b36-8247-a15a35b8b853.png)
